@@ -28,8 +28,7 @@ Setup live server.
 
 ## 🤝 Contributing
 
-- Enekwe stanley: [Enekwestanley](https://github.com/Enekwestanley)
-
+- [Enekwestanley](https://github.com/Enekwestanley)
 
 ## Show your support
 
