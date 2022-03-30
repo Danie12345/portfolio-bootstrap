@@ -32,3 +32,21 @@ li {
   text-align: center;
 
 }
+
+.hey-there {
+  color:#F55800;
+  font-family: Crete Round;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 82px;
+  letter-spacing: 0em;
+  text-align: left;
+  top: 20%;
+  position: relative;
+}
+
+.headline-section {
+  height: calc(100vh-68px);
+  background-color:  #1C1A19;
+}
