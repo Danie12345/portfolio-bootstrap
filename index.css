@@ -1,0 +1,62 @@
+ul,
+li {
+  list-style: none;
+}
+
+.bg-header {
+  background-color: #3e3c3c;
+}
+
+.navbar-name {
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.navbar-buttons {
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.hey-there {
+  color: #f55800;
+  font-family: Crete Round, sans-serif;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 82px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.headline-section {
+  height: calc(100vh - 68px);
+  background-color: #1c1a19;
+  background-image: url('assets/background-shapes-full.png');
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: bottom;
+  padding-top: 8rem;
+}
+
+.reposition-headline {
+  margin-left: 5rem;
+}
+
+.headline-icons {
+  position: relative;
+  top: -60%;
+}
+
+.headline-icon {
+  padding: 5px 0%;
+}
